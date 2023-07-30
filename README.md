@@ -1,1 +1,1 @@
-Electronics sales network model project. 
+## Electronics sales network model project.
